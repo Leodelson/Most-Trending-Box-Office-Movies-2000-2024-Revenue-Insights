@@ -25,12 +25,19 @@ Total Statistics Summary with Cards
 ![Top 7 Movies by Domestic Revenue](https://github.com/user-attachments/assets/2c2d71f7-9677-4102-a01f-bca5230aeb97)
 
 
-
-
 The highest-grossing movie domestically is Halloween with $218M, followed by Mean Girls at $158M.
 Other top-grossing movies include The Grudge ($132M), Shaft ($92M), The Gift ($56M), Death at a Funeral ($51M), and Joy Ride at ($35M).
 
 📌 Key Insight: Horror and comedy movies seem to dominate the domestic market, showing strong audience interest.
+
+
+## Production Countries & Genres (World Map - Center Panel)
+
+The map visualization highlights production countries contributing to worldwide movie revenue.
+Color-coded markers indicate major revenue-generating genres for different countries.
+
+📌 Key Insight: The United States, United Kingdom, and China are dominant movie producers.
+Europe and parts of Asia also contribute significantly to specific genres.
 
 
 ## Top 5 Production Countries by Worldwide Revenue Distribution

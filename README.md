@@ -31,6 +31,6 @@ The United States leads worldwide movie revenue with $341bn, followed by the UK 
 
 
 The highest foreign revenue comes from Action, Adventure ($16.0bn).
-Other strong performers include Adventure, Action ($9.8bn), Adventure, Animation ($8.3bn), Comedy, Romance ($7.6bn), Action, Drama ($7.0bn), and Drama ($6.5bn).
+Other strong performers include Comedy ($9.8bn), Adventure, Action, Science Fiction ($8.3bn), Comedy, Romance ($7.6bn), Action, Adventure, Fantasy ($7.2bn), and Drama ($6.5bn).
 
 📌 Key Insight: Action and adventure movies are the most successful in international markets, followed by animated and comedy films.

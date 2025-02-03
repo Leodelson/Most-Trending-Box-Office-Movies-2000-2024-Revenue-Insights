@@ -7,6 +7,7 @@
 
 
 Total Statistics Summary with Cards
+
 ![Cards](https://github.com/user-attachments/assets/21ad2c70-a3cc-4cda-bdc5-b95fb75fc5da)
 
 Total Rank %: 480K

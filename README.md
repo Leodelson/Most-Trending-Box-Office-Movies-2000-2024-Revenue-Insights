@@ -17,6 +17,7 @@ Other top-grossing movies include The Grudge ($132M), Shaft ($92M), The Gift ($5
 
 📌 Key Insight: Horror and comedy movies seem to dominate the domestic market, showing strong audience interest.
 
+
 ### Top 5 Production Countries by Worldwide Revenue Distribution
 ![Top 5 Production Country by Worldwide Revenue](https://github.com/user-attachments/assets/c7b0ab19-7827-4c48-a5e0-6c71adeb0af5)
 

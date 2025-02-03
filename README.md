@@ -5,6 +5,8 @@
 ## Overview of Box Office Movies Revenue Analysis Dashboard
 ![Box Office Movies Revenue](https://github.com/user-attachments/assets/ae1a6ece-4d71-480d-83e6-1e684539bd01)
 
+This dashboard provides an in-depth analysis of movie revenue trends by domestic and foreign earnings, production countries, top-performing genres, and languages. These insights help industry stakeholders identify key revenue-driving factors and make informed decisions in the movie industry.
+
 
 Total Statistics Summary with Cards
 
@@ -17,7 +19,7 @@ Total Statistics Summary with Cards
 
 📌 Key Insight: The total vote count suggests high audience engagement with these movies. Foreign revenue significantly surpasses domestic revenue, indicating strong international demand.
 
-This dashboard provides an in-depth analysis of movie revenue trends by domestic and foreign earnings, production countries, top-performing genres, and languages. These insights help industry stakeholders identify key revenue-driving factors and make informed decisions in the movie industry.
+
 # Key Insights and Analysis
 ### Top 7 Movies by Domestic Revenue
 ![Top 7 Movies by Domestic Revenue](https://github.com/user-attachments/assets/2c2d71f7-9677-4102-a01f-bca5230aeb97)

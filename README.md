@@ -33,7 +33,7 @@ Other top-grossing movies include The Grudge ($132M), Shaft ($92M), The Gift ($5
 📌 Key Insight: Horror and comedy movies seem to dominate the domestic market, showing strong audience interest.
 
 
-### Top 5 Production Countries by Worldwide Revenue Distribution
+## Top 5 Production Countries by Worldwide Revenue Distribution
 ![Top 5 Production Country by Worldwide Revenue](https://github.com/user-attachments/assets/c7b0ab19-7827-4c48-a5e0-6c71adeb0af5)
 
 The United States leads worldwide movie revenue with $341bn, followed by the UK ($48bn), China ($21bn), Japan ($14bn), and Canada ($11bn).
@@ -41,7 +41,7 @@ The United States leads worldwide movie revenue with $341bn, followed by the UK 
 📌 Key Insight: The U.S. is the dominant force in global movie revenue, contributing the most to the worldwide box office.
 
 
-### Top 6 Movie Genre by Foreign Revenue
+## Top 6 Movie Genre by Foreign Revenue
 ![Top 6 Movie Genre by Foreign Revenue](https://github.com/user-attachments/assets/f84a76df-605a-4180-9daa-070f9fb4b1b2)
 
 
@@ -59,7 +59,7 @@ Peak earnings are seen in specific years, such as a sharp increase around 2010 a
 📌 Key Insight: Action, adventure, and sci-fi genres have seen significant growth, especially in recent years.
 
 
-### Top 5 Movie Languages by Worldwide Revenue
+## Top 5 Movie Languages by Worldwide Revenue
 ![Top 5 Movies Language by Wordwide Revenue](https://github.com/user-attachments/assets/d79c94e6-5096-4d6c-a921-30dc413585a2)
 
 English-language movies dominate with a revenue share of $508.8bn (88.45%).

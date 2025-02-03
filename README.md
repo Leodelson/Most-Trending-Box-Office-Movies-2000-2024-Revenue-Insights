@@ -24,3 +24,12 @@ Other top-grossing movies include The Grudge ($132M), Shaft ($92M), The Gift ($5
 The United States leads worldwide movie revenue with $341bn, followed by the UK ($48bn), China ($21bn), Japan ($14bn), and Canada ($11bn).
 
 📌 Key Insight: The U.S. is the dominant force in global movie revenue, contributing the most to the worldwide box office.
+
+
+### Top 6 Movie Genres by Foreign Revenue
+![Top Movies Genres by Foreign Revenue ](https://github.com/user-attachments/assets/95bc7e1d-a11f-4d93-879a-1e50d2675e53)
+
+The highest foreign revenue comes from Action, Adventure ($16.0bn).
+Other strong performers include Adventure, Action ($9.8bn), Adventure, Animation ($8.3bn), Comedy, Romance ($7.6bn), Action, Drama ($7.0bn), and Drama ($6.5bn).
+
+📌 Key Insight: Action and adventure movies are the most successful in international markets, followed by animated and comedy films.

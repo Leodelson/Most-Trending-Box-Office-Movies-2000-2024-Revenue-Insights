@@ -13,7 +13,7 @@ This dashboard provides an in-depth analysis of movie revenue trends by domestic
 
 
 The highest-grossing movie domestically is Halloween with $218M, followed by Mean Girls at $158M.
-Other top-grossing movies include The Grudge ($132M), Shaft ($92M), The Gift ($56M), Death at a Funeral ($51M), and another film at $35M.
+Other top-grossing movies include The Grudge ($132M), Shaft ($92M), The Gift ($56M), Death at a Funeral ($51M), and Joy Ride at ($35M).
 
 📌 Key Insight: Horror and comedy movies seem to dominate the domestic market, showing strong audience interest.
 

@@ -8,7 +8,8 @@
 This dashboard provides an in-depth analysis of movie revenue trends by domestic and foreign earnings, production countries, top-performing genres, and languages. These insights help industry stakeholders identify key revenue-driving factors and make informed decisions in the movie industry.
 # Key Insights and Analysis
 ### Top 7 Movies by Domestic Revenue
-![Top 7 Movies by Domestic Revenue](https://github.com/user-attachments/assets/63f6c961-4884-4b93-b18b-8bac8a53fc86)
+![Top 7 Movies by Domestic Revenue](https://github.com/user-attachments/assets/2c2d71f7-9677-4102-a01f-bca5230aeb97)
+
 
 
 

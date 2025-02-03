@@ -48,9 +48,41 @@ Peak earnings are seen in specific years, such as a sharp increase around 2010 a
 ![Top 5 Movies Language by Wordwide Revenue](https://github.com/user-attachments/assets/d79c94e6-5096-4d6c-a921-30dc413585a2)
 
 English-language movies dominate with a revenue share of $508.8bn (88.45%).
-Other languages include Cantonese ($36.62bn, 6.37%), Japanese ($7.23bn), Korean, and French.
+Other languages include Cantonese ($36.62bn, 6.37%), Japanese ($14.99bn), Korean, and French.
 
 📌 Key Insight: English remains the primary language for high-grossing movies, while Cantonese films hold a substantial share.
+
+
+## Summary of Key Insights
+Domestic Revenue: Horror and comedy films generate the highest domestic earnings.
+Foreign Revenue: Action, adventure, and animated movies dominate international box offices.
+Production Countries: The U.S. is the leading revenue generator, followed by the UK and China.
+Genre Trends: Action and adventure genres have shown consistent revenue growth worldwide.
+Language Revenue: English-language films overwhelmingly lead the global box office.
+Recommendations.
+
+## For Filmmakers & Studios:
+
+Invest more in horror and comedy films for strong domestic box office performance.
+Continue focusing on action-adventure films for international markets.
+
+## For International Distributors:
+
+Target the U.S., UK, and China for high-revenue movie production and distribution opportunities.
+Expand dubbing and localization strategies for Cantonese, Japanese, and Korean-speaking audiences.
+
+## For Investors:
+
+Invest in action-adventure and sci-fi projects, as they have shown strong revenue growth.
+Consider regional movie industries, such as China's, which is growing rapidly in box office influence.
+
+## For Streaming Platforms:
+
+Focus on acquiring rights to high-grossing genres like action and adventure.
+Prioritize English-language content while expanding non-English selections for niche markets.
+
+## Conclusion
+This Box Office Movies Revenue Analysis provides valuable insights into global movie earnings from 2000 to 2024. By understanding trends in domestic and foreign revenue, production countries, top genres, and language distribution, stakeholders can make informed decisions to maximize movie profitability and audience engagement.
 
 
 

@@ -27,7 +27,8 @@ The United States leads worldwide movie revenue with $341bn, followed by the UK 
 
 
 ### Top 6 Movie Genres by Foreign Revenue
-![Top Movies Genres by Foreign Revenue ](https://github.com/user-attachments/assets/95bc7e1d-a11f-4d93-879a-1e50d2675e53)
+![Top 6 Movie Genre by Foreign Revenue](https://github.com/user-attachments/assets/f84a76df-605a-4180-9daa-070f9fb4b1b2)
+
 
 The highest foreign revenue comes from Action, Adventure ($16.0bn).
 Other strong performers include Adventure, Action ($9.8bn), Adventure, Animation ($8.3bn), Comedy, Romance ($7.6bn), Action, Drama ($7.0bn), and Drama ($6.5bn).

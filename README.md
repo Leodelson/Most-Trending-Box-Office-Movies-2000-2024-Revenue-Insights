@@ -24,7 +24,7 @@ Total Statistics Summary with Cards
 📌 Key Insight: The total vote count suggests high audience engagement with these movies. Foreign revenue significantly surpasses domestic revenue, indicating strong international demand.
 
 
-### Top 7 Movies by Domestic Revenue
+### Top 7 Movies by Domestic Revenue:
 ![Top 7 Movies by Domestic Revenue](https://github.com/user-attachments/assets/2c2d71f7-9677-4102-a01f-bca5230aeb97)
 
 
@@ -34,7 +34,7 @@ Other top-grossing movies include The Grudge ($132M), Shaft ($92M), The Gift ($5
 📌 Key Insight: Horror and comedy movies seem to dominate the domestic market, showing strong audience interest.
 
 
-## Production Countries & Genres (World Map - Center Panel)
+## Production Countries & Genres (World Map - Center Panel):
 
 The map visualization highlights production countries contributing to worldwide movie revenue.
 Color-coded markers indicate major revenue-generating genres for different countries.
@@ -43,7 +43,7 @@ Color-coded markers indicate major revenue-generating genres for different count
 Europe and parts of Asia also contribute significantly to specific genres.
 
 
-## Top 5 Production Countries by Worldwide Revenue Distribution
+## Top 5 Production Countries by Worldwide Revenue Distribution:
 ![Top 5 Production Country by Worldwide Revenue](https://github.com/user-attachments/assets/c7b0ab19-7827-4c48-a5e0-6c71adeb0af5)
 
 The United States leads worldwide movie revenue with $341bn, followed by the UK ($48bn), China ($21bn), Japan ($14bn), and Canada ($11bn).
@@ -51,7 +51,7 @@ The United States leads worldwide movie revenue with $341bn, followed by the UK 
 📌 Key Insight: The U.S. is the dominant force in global movie revenue, contributing the most to the worldwide box office.
 
 
-## Top 6 Movie Genre by Foreign Revenue
+## Top 6 Movie Genre by Foreign Revenue:
 ![Top 6 Movie Genre by Foreign Revenue](https://github.com/user-attachments/assets/f84a76df-605a-4180-9daa-070f9fb4b1b2)
 
 
@@ -60,7 +60,7 @@ Other strong performers include Comedy ($9.8bn), Adventure, Action, Science Fict
 
 📌 Key Insight: Action and adventure movies are the most successful in international markets, followed by animated and comedy films.
 
-## Top 5 Movie Genres by Worldwide Revenue (Yearly Breakdown)
+## Top 5 Movie Genres by Worldwide Revenue (Yearly Breakdown):
 ![Top 5 Genres by Worldwide Revenue (Yearly Breakdown)](https://github.com/user-attachments/assets/a4a2872c-7d02-43a8-ac28-786beb445676)
 
 The yearly revenue breakdown highlights fluctuations in genre popularity.
@@ -69,7 +69,7 @@ Peak earnings are seen in specific years, such as a sharp increase around 2010 a
 📌 Key Insight: Action, adventure, and sci-fi genres have seen significant growth, especially in recent years.
 
 
-## Top 5 Movie Languages by Worldwide Revenue
+## Top 5 Movie Languages by Worldwide Revenue:
 ![Top 5 Movies Language by Wordwide Revenue](https://github.com/user-attachments/assets/d79c94e6-5096-4d6c-a921-30dc413585a2)
 
 English-language movies dominate with a revenue share of $508.8bn (88.45%).
@@ -78,7 +78,7 @@ Other languages include Cantonese ($36.62bn, 6.37%), Japanese ($14.99bn), Korean
 📌 Key Insight: English remains the primary language for high-grossing movies, while Cantonese films hold a substantial share.
 
 
-## Summary of Key Insights
+## Summary of Key Insights:
 Domestic Revenue: Horror and comedy films generate the highest domestic earnings.
 Foreign Revenue: Action, adventure, and animated movies dominate international box offices.
 Production Countries: The U.S. is the leading revenue generator, followed by the UK and China.
@@ -106,7 +106,7 @@ Consider regional movie industries, such as China's, which is growing rapidly in
 Focus on acquiring rights to high-grossing genres like action and adventure.
 Prioritize English-language content while expanding non-English selections for niche markets.
 
-## Conclusion
+## Conclusion:
 This Box Office Movies Revenue Analysis provides valuable insights into global movie earnings from 2000 to 2024. By understanding trends in domestic and foreign revenue, production countries, top genres, and language distribution, stakeholders can make informed decisions to maximize movie profitability and audience engagement.
 
 

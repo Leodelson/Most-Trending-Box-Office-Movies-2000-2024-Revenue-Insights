@@ -26,7 +26,7 @@ The United States leads worldwide movie revenue with $341bn, followed by the UK 
 📌 Key Insight: The U.S. is the dominant force in global movie revenue, contributing the most to the worldwide box office.
 
 
-### Top 6 Movie Genres by Foreign Revenue
+### Top 6 Movie Genre by Foreign Revenue
 ![Top 6 Movie Genre by Foreign Revenue](https://github.com/user-attachments/assets/f84a76df-605a-4180-9daa-070f9fb4b1b2)
 
 
@@ -34,3 +34,23 @@ The highest foreign revenue comes from Action, Adventure ($16.0bn).
 Other strong performers include Comedy ($9.8bn), Adventure, Action, Science Fiction ($8.3bn), Comedy, Romance ($7.6bn), Action, Adventure, Fantasy ($7.2bn), and Drama ($6.5bn).
 
 📌 Key Insight: Action and adventure movies are the most successful in international markets, followed by animated and comedy films.
+
+## Top 5 Movie Genres by Worldwide Revenue (Yearly Breakdown)
+![Top 5 Genres by Worldwide Revenue (Yearly Breakdown)](https://github.com/user-attachments/assets/a4a2872c-7d02-43a8-ac28-786beb445676)
+
+The yearly revenue breakdown highlights fluctuations in genre popularity.
+Peak earnings are seen in specific years, such as a sharp increase around 2010 and 2020, particularly in Action, Adventure, Science Fiction.
+
+📌 Key Insight: Action, adventure, and sci-fi genres have seen significant growth, especially in recent years.
+
+
+### Top 5 Movie Languages by Worldwide Revenue
+![Top 5 Movies Language by Wordwide Revenue](https://github.com/user-attachments/assets/d79c94e6-5096-4d6c-a921-30dc413585a2)
+
+English-language movies dominate with a revenue share of $508.8bn (88.45%).
+Other languages include Cantonese ($36.62bn, 6.37%), Japanese ($7.23bn), Korean, and French.
+
+📌 Key Insight: English remains the primary language for high-grossing movies, while Cantonese films hold a substantial share.
+
+
+

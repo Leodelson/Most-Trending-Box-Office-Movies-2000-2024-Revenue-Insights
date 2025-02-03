@@ -8,7 +8,8 @@
 This dashboard provides an in-depth analysis of movie revenue trends by domestic and foreign earnings, production countries, top-performing genres, and languages. These insights help industry stakeholders identify key revenue-driving factors and make informed decisions in the movie industry.
 # Key Insights and Analysis
 ### Top 7 Movies by Domestic Revenue
-![Top 7 Movies by Domestic Revenue](https://github.com/user-attachments/assets/cfbe3be5-56f1-4e51-8ecf-b458ae00ec2f)
+![Screenshot 2025-02-03 151021](https://github.com/user-attachments/assets/bda83bfc-06a0-4d67-a84f-07582b643823)
+
 
 The highest-grossing movie domestically is Halloween with $218M, followed by Mean Girls at $158M.
 Other top-grossing movies include The Grudge ($132M), Shaft ($92M), The Gift ($65M), Death at a Funeral ($51M), and another film at $35M.

@@ -16,7 +16,7 @@ Total Statistics Summary with Cards
 
 ![Cards](https://github.com/user-attachments/assets/21ad2c70-a3cc-4cda-bdc5-b95fb75fc5da)
 
-#### Total Rank %: 480K
+#### Total Rank: 480K
 #### Total Vote Count: 12M
 #### Domestic Revenue %: 175.37K
 #### Foreign Revenue %: 307.63K

@@ -3,7 +3,8 @@
 ### Analyst: Leo
 ### Date: 03/02/2025
 ## Overview of Box Office Movies Revenue Analysis Dashboard
-![Uploading Most Trending Box Office Movies.png…]()
+<img width="1027" height="502" alt="Most Trending Box Office Movies" src="https://github.com/user-attachments/assets/e0e8b6b1-f36b-4ee2-b8c7-a4392ffb805b" />
+
 
 
 This dashboard provides an in-depth analysis of movie revenue trends by domestic and foreign earnings, production countries, top-performing genres, and languages. These insights help industry stakeholders identify key revenue-driving factors and make informed decisions in the movie industry.

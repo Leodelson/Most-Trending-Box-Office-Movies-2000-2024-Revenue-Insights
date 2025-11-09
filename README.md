@@ -27,7 +27,7 @@ Total Statistics Summary with Cards
 📌 Key Insight: The total vote count suggests high audience engagement with these movies. Foreign revenue significantly surpasses domestic revenue, indicating strong international demand.
 
 
-### Top 7 Movies by Domestic Revenue:
+### Movies by Domestic Revenue:
 <img width="310" height="185" alt="Top 7 Movies" src="https://github.com/user-attachments/assets/114eece6-2967-437a-8dbd-671b86dcc589" />
 
 
@@ -50,7 +50,7 @@ Color-coded markers indicate major revenue-generating genres for different count
 Europe and parts of Asia also contribute significantly to specific genres.
 
 
-## Top 5 Production Countries by Worldwide Revenue Distribution:
+## Production Countries by Worldwide Revenue Distribution:
 <img width="364" height="185" alt="Top 5 Movies" src="https://github.com/user-attachments/assets/655ffbdd-b140-4feb-bf78-55e9440e06bd" />
 
 
@@ -59,7 +59,7 @@ The United States leads worldwide movie revenue with $341bn, followed by the UK 
 📌 Key Insight: The U.S. is the dominant force in global movie revenue, contributing the most to the worldwide box office.
 
 
-## Top 6 Movie Genre by Foreign Revenue:
+## Movie Genre by Foreign Revenue:
 <img width="307" height="211" alt="Top 6 Movies" src="https://github.com/user-attachments/assets/ef230364-ccf4-42ae-8ce6-266bf3f4d4ec" />
 
 
@@ -69,7 +69,7 @@ Other strong performers include Comedy ($9.8bn), Adventure, Action, Science Fict
 
 📌 Key Insight: Action and adventure movies are the most successful in international markets, followed by animated and comedy films.
 
-## Top 5 Movie Genres by Worldwide Revenue (Yearly Breakdown):
+## Movie Genres by Worldwide Revenue (Yearly Breakdown):
 <img width="353" height="210" alt="Movies Trend Overtime" src="https://github.com/user-attachments/assets/327336f2-5934-4897-99ed-84d5f703a7f7" />
 
 
@@ -79,7 +79,7 @@ Peak earnings are seen in specific years, such as a sharp increase around 2010 a
 📌 Key Insight: Action, adventure, and sci-fi genres have seen significant growth, especially in recent years.
 
 
-## Top 5 Movie Languages by Worldwide Revenue:
+## Movie Languages by Worldwide Revenue:
 <img width="365" height="209" alt="Last Top 5 Movies" src="https://github.com/user-attachments/assets/85f4fa2a-2ad7-403d-b2ba-b5b197b177c8" />
 
 

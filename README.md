@@ -16,7 +16,8 @@ This dashboard provides an in-depth analysis of movie revenue trends by domestic
 
 Total Statistics Summary with Cards
 
-![Cards](https://github.com/user-attachments/assets/21ad2c70-a3cc-4cda-bdc5-b95fb75fc5da)
+<img width="627" height="44" alt="Cards" src="https://github.com/user-attachments/assets/1ceb52c2-b8d8-4df0-9d57-d3e79cfc1bd0" />
+
 
 #### Total Rank: 480K
 #### Total Vote Count: 12M
@@ -27,7 +28,8 @@ Total Statistics Summary with Cards
 
 
 ### Top 7 Movies by Domestic Revenue:
-![Top 7 Movies by Domestic Revenue](https://github.com/user-attachments/assets/2c2d71f7-9677-4102-a01f-bca5230aeb97)
+<img width="310" height="185" alt="Top 7 Movies" src="https://github.com/user-attachments/assets/114eece6-2967-437a-8dbd-671b86dcc589" />
+
 
 
 The highest-grossing movie domestically is Halloween with $218M, followed by Mean Girls at $158M.
@@ -46,7 +48,8 @@ Europe and parts of Asia also contribute significantly to specific genres.
 
 
 ## Top 5 Production Countries by Worldwide Revenue Distribution:
-![Top 5 Production Country by Worldwide Revenue](https://github.com/user-attachments/assets/c7b0ab19-7827-4c48-a5e0-6c71adeb0af5)
+<img width="364" height="185" alt="Top 5 Movies" src="https://github.com/user-attachments/assets/655ffbdd-b140-4feb-bf78-55e9440e06bd" />
+
 
 The United States leads worldwide movie revenue with $341bn, followed by the UK ($48bn), China ($21bn), Japan ($14bn), and Canada ($11bn).
 
@@ -54,7 +57,8 @@ The United States leads worldwide movie revenue with $341bn, followed by the UK 
 
 
 ## Top 6 Movie Genre by Foreign Revenue:
-![Top 6 Movie Genre by Foreign Revenue](https://github.com/user-attachments/assets/f84a76df-605a-4180-9daa-070f9fb4b1b2)
+<img width="307" height="211" alt="Top 6 Movies" src="https://github.com/user-attachments/assets/ef230364-ccf4-42ae-8ce6-266bf3f4d4ec" />
+
 
 
 The highest foreign revenue comes from Action, Adventure ($16.0bn).
@@ -63,7 +67,8 @@ Other strong performers include Comedy ($9.8bn), Adventure, Action, Science Fict
 📌 Key Insight: Action and adventure movies are the most successful in international markets, followed by animated and comedy films.
 
 ## Top 5 Movie Genres by Worldwide Revenue (Yearly Breakdown):
-![Top 5 Genres by Worldwide Revenue (Yearly Breakdown)](https://github.com/user-attachments/assets/a4a2872c-7d02-43a8-ac28-786beb445676)
+<img width="353" height="210" alt="Movies Trend Overtime" src="https://github.com/user-attachments/assets/327336f2-5934-4897-99ed-84d5f703a7f7" />
+
 
 The yearly revenue breakdown highlights fluctuations in genre popularity.
 Peak earnings are seen in specific years, such as a sharp increase around 2010 and 2020, particularly in Action, Adventure, Science Fiction.
@@ -72,7 +77,8 @@ Peak earnings are seen in specific years, such as a sharp increase around 2010 a
 
 
 ## Top 5 Movie Languages by Worldwide Revenue:
-![Top 5 Movies Language by Wordwide Revenue](https://github.com/user-attachments/assets/d79c94e6-5096-4d6c-a921-30dc413585a2)
+<img width="365" height="209" alt="Last Top 5 Movies" src="https://github.com/user-attachments/assets/85f4fa2a-2ad7-403d-b2ba-b5b197b177c8" />
+
 
 English-language movies dominate with a revenue share of $508.8bn (88.45%).
 Other languages include Cantonese ($36.62bn, 6.37%), Japanese ($14.99bn), Korean, and French.

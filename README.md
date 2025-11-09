@@ -40,6 +40,9 @@ Other top-grossing movies include The Grudge ($132M), Shaft ($92M), The Gift ($5
 
 ## Production Countries & Genres (World Map - Center Panel):
 
+<img width="354" height="186" alt="Movies Map" src="https://github.com/user-attachments/assets/ecaf49f2-fed7-4172-bc5b-33236a3543ee" />
+
+
 The map visualization highlights production countries contributing to worldwide movie revenue.
 Color-coded markers indicate major revenue-generating genres for different countries.
 

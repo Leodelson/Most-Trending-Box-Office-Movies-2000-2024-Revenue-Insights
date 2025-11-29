@@ -21,7 +21,7 @@ This dashboard provides an in-depth analysis of movie revenue trends by domestic
 
 ---
 
-# **Key Insights and Analysis**
+# **Key Insights and Analysis:**
 
 ## **Total Statistics Summary (KPI Cards):**  
 ![Cards](https://github.com/user-attachments/assets/1ceb52c2-b8d8-4df0-9d57-d3e79cfc1bd0)
